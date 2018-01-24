@@ -1,0 +1,13 @@
+
+#show-places {
+  display: none;
+}
+
+.visits {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.visits:hover {
+  text-decoration: underline;
+}
